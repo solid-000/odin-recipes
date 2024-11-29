@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+
+.list{
+    font-size: 18px;
+    
+}
+
+h1, h2, .list, ol, ul{
+    font-family: Impact
+}
+
+h2{
+    background-color: black;
+    color: white;
+}
+.img{
+    height: 400px;
+    width: auto;
+}
+
